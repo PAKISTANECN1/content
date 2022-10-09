@@ -26,7 +26,7 @@ browser-compat: webextensions.manifest.author
     </tr>
     <tr>
       <th scope="row">Example</th>
-      <td><pre class="brush: json">"author": "Walt Whitman"</pre></td>
+      <td><pre class="brush: json">"author": "Evgeniy S."</pre></td>
     </tr>
   </tbody>
 </table>
@@ -38,9 +38,8 @@ This is a [localizable property](/en-US/docs/Mozilla/Add-ons/WebExtensions/Inter
 ## Example
 
 ```json
-"author": "Walt Whitman"
+"author": "Evgeniy S."
 ```
 
-## Browser compatibility
-
+## Browser compatibility:
 {{Compat}}
